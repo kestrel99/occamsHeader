@@ -1,0 +1,10 @@
+Package: occamsHeader
+Type: Package
+Title: Inserts Occams Header
+Version: 0.1.0
+Author: Justin Wilkins
+Maintainer: Justin Wilkins <justin.wilkins@occams.eu>
+Description: A RStudio addin to insert Occams boilerplate code header at the cursor location.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1

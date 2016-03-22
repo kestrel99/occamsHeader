@@ -1,0 +1,9 @@
+Name: Insert Occams Header
+Description: Inserts Occams header at the cursor position.
+Binding: insertOccamsHeader
+Interactive: false
+
+Name: Insert ggplot2 Header
+Description: Inserts Occams ggplot2 header at the cursor position.
+Binding: insertGGHeader
+Interactive: false
